@@ -1,0 +1,23 @@
+.Boxes {
+  width: 60%;
+  margin: auto;
+  height: 70vh;
+  display: flex;
+  justify-content: space-around;
+}
+.Box {
+  margin-top: 1rem;
+  width: 29%;
+  height: 55vh;
+  border: 1px solid rgb(244, 114, 114);
+  box-shadow: 2px 2px 4px rgb(244, 114, 114);
+  border-radius: 5px;
+  text-align: center;
+  padding: 2px;
+}
+.BitBox {
+  height: 26vh;
+  width: 95%;
+  background-image: linear-gradient(rgb(96, 95, 95), rgb(71, 70, 70));
+  margin: auto;
+}

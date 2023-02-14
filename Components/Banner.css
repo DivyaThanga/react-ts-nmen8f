@@ -1,0 +1,13 @@
+.ban {
+  background-image: linear-gradient(rgb(33, 32, 32), rgb(49, 49, 49));
+  width: 95%;
+  height: 70vh;
+  text-align: center;
+  margin: auto;
+}
+.head {
+  font-size: 30px;
+  padding: 3rem;
+  color: white;
+  margin-bottom: 0px;
+}
